@@ -1,4 +1,4 @@
-# ⚽ Football Analytics Database System
+# ⚽ Football Analytics - Relational Database Management System
 
 A relational database system developed for football analytics, player performance monitoring, injury tracking, training load management, and transfer decision support.
 
